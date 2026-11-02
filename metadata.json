@@ -1,0 +1,6 @@
+{
+  "name": "SEMICIRCLE",
+  "description": "Futuristic AI terminal assistant with face tracking, audio visualizer, live weather, and connector hub",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

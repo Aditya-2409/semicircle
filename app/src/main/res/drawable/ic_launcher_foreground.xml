@@ -1,0 +1,35 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Glowing Outer Tech Arcs -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FF8A24"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M32,54 A22,22 0 1,1 76,54" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFB15A"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M26,54 A28,28 0 0,1 82,54" />
+    <!-- Visor Bar -->
+    <path
+        android:fillColor="#FF8A24"
+        android:pathData="M24,52 L84,52 A2,2 0 0,1 86,54 L86,56 A2,2 0 0,1 84,58 L24,58 A2,2 0 0,1 22,56 L22,54 A2,2 0 0,1 24,52 Z" />
+    <!-- Cyber Eye Pupil -->
+    <path
+        android:fillColor="#FFB15A"
+        android:pathData="M54,54 m-10,0 a10,10 0 1,0 20,0 a10,10 0 1,0 -20,0" />
+    <!-- Pupil Core Pinpoint -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,54 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+    <!-- Equalizer Bar Waves Under Visor -->
+    <path
+        android:fillColor="#FF8A24"
+        android:pathData="M38,64 L40,64 L40,72 L38,72 Z M46,64 L48,64 L48,76 L46,76 Z M53,64 L55,64 L55,80 L53,80 Z M60,64 L62,64 L62,76 L60,76 Z M68,64 L70,64 L70,72 L68,72 Z" />
+</vector>
